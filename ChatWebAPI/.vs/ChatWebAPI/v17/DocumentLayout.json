@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\educ\\Online-Chat\\ChatWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CD8AC4-86E1-4E0B-BFFD-3FE11281F47D}|ChatWebAPI\\ChatWebAPI.csproj|c:\\educ\\online-chat\\chatwebapi\\chatwebapi\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CD8AC4-86E1-4E0B-BFFD-3FE11281F47D}|ChatWebAPI\\ChatWebAPI.csproj|solutionrelative:chatwebapi\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CD8AC4-86E1-4E0B-BFFD-3FE11281F47D}|ChatWebAPI\\ChatWebAPI.csproj|c:\\educ\\online-chat\\chatwebapi\\chatwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CD8AC4-86E1-4E0B-BFFD-3FE11281F47D}|ChatWebAPI\\ChatWebAPI.csproj|solutionrelative:chatwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "C:\\educ\\Online-Chat\\ChatWebAPI\\ChatWebAPI\\Controllers\\ApiController.cs",
+              "RelativeDocumentMoniker": "ChatWebAPI\\Controllers\\ApiController.cs",
+              "ToolTip": "C:\\educ\\Online-Chat\\ChatWebAPI\\ChatWebAPI\\Controllers\\ApiController.cs",
+              "RelativeToolTip": "ChatWebAPI\\Controllers\\ApiController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T03:07:45.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\educ\\Online-Chat\\ChatWebAPI\\ChatWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ChatWebAPI\\Program.cs",
+              "ToolTip": "C:\\educ\\Online-Chat\\ChatWebAPI\\ChatWebAPI\\Program.cs",
+              "RelativeToolTip": "ChatWebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T00:49:48.361Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
